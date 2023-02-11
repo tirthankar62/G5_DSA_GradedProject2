@@ -1,4 +1,4 @@
-package com.greatlearning.gp2;
+package com.greatlearning.gp2.q1;
 
 import java.util.*;
 
